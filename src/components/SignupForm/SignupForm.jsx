@@ -114,14 +114,10 @@ const SignupForm = props => {
       </div>
     {/*leftcontainer end div*/}
       </div>
-
       <div className='right-container'>
         <h1>HI PLAYERS</h1>
       </div>
-
       </div>
-
-
   )
 }
 
