@@ -21,10 +21,11 @@ img {
 }
 
 .page-container {
-  margin: 20px;
+  background: #1d222b;
   display: flex;
   align-items: center;
   justify-content: right;
+
 }
 
 
